@@ -4,43 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd79d81ebd53a5b",
+        "id": "658336473c727352",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d2ec9150cf03cc",
+            "id": "f08cc0db072b8fe4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Stock Price Change alert.md"
+                "file": "System Design/Web Crawler.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Stock Price Change alert"
-            }
-          },
-          {
-            "id": "3773955ac3384b88",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Price Tracking Service.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Price Tracking Service"
-            }
-          },
-          {
-            "id": "c62f9e08b5ce9659",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Online Auction.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Online Auction"
+              "title": "Web Crawler"
             }
           }
         ]
@@ -102,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d61664bec855b22e",
@@ -222,16 +197,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c0d2ec9150cf03cc",
+  "active": "f08cc0db072b8fe4",
   "lastOpenFiles": [
-    "System Design/Price Tracking Service.md",
+    "System Design/Web Crawler.md",
+    "System Design/Rate Limiter.md",
+    "System Design/Google docs.md",
+    "System Design/Netflix_Hotstar_PrimeVideo.md",
+    "System Design/Youtube.md",
     "System Design/Stock Price Change alert.md",
     "System Design/Online Auction.md",
-    "System Design/Netflix_Hotstar_PrimeVideo.md",
+    "System Design/Price Tracking Service.md",
     "Core Concepts/2PC.md",
     "Technologies/Elasticsearch.md",
     "Core Concepts/Database Indexing.md",
-    "System Design/Youtube.md",
     "System Design/Facebook Live comments.md",
     "System Design/Dropbox.md",
     "System Design/Leetcode.md",
@@ -247,12 +225,9 @@
     "System Design/Facebook News feed.md",
     "System Design/Real Time Gaming Leaderboard.md",
     "System Design/Tinder.md",
-    "System Design/Web Crawler.md",
-    "System Design/Rate Limiter.md",
     "System Design/Cheatsheet.md",
     "System Design/Twitter.md",
     "System Design/Uber.md",
-    "System Design/Book my Show.md",
     "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
