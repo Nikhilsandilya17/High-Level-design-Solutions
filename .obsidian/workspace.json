@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Web Crawler.md"
+                "file": "System Design/Stock Price Change alert.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Web Crawler"
+              "title": "Stock Price Change alert"
+            }
+          },
+          {
+            "id": "b8a42b4ee96d63f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Stock Brocker.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Stock Brocker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d61664bec855b22e",
@@ -197,16 +211,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f08cc0db072b8fe4",
+  "active": "b8a42b4ee96d63f8",
   "lastOpenFiles": [
-    "System Design/Web Crawler.md",
-    "System Design/Rate Limiter.md",
+    "System Design/Stock Price Change alert.md",
+    "System Design/Price Tracking Service.md",
+    "System Design/Stock Brocker.md",
     "System Design/Google docs.md",
+    "System Design/Online Auction.md",
+    "System Design/Payment System.md",
+    "System Design/Chat_WhatsApp.md",
+    "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
+    "System Design/Rate Limiter.md",
+    "System Design/Real Time Gaming Leaderboard.md",
+    "System Design/Tinder.md",
+    "System Design/Twitter.md",
+    "System Design/Uber.md",
+    "System Design/URL Shortener.md",
+    "System Design/Web Crawler.md",
+    "README.md",
     "System Design/Netflix_Hotstar_PrimeVideo.md",
     "System Design/Youtube.md",
-    "System Design/Stock Price Change alert.md",
-    "System Design/Online Auction.md",
-    "System Design/Price Tracking Service.md",
     "Core Concepts/2PC.md",
     "Technologies/Elasticsearch.md",
     "Core Concepts/Database Indexing.md",
@@ -214,20 +238,10 @@
     "System Design/Dropbox.md",
     "System Design/Leetcode.md",
     "System Design/Yelp.md",
-    "System Design/Payment System.md",
     "Core Concepts",
-    "System Design/Chat_WhatsApp.md",
-    "System Design/URL Shortener.md",
     "System Design/Key Value Store.md",
-    "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
     "Untitled.base",
     "Excalidraw",
-    "System Design/Facebook News feed.md",
-    "System Design/Real Time Gaming Leaderboard.md",
-    "System Design/Tinder.md",
-    "System Design/Cheatsheet.md",
-    "System Design/Twitter.md",
-    "System Design/Uber.md",
     "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
