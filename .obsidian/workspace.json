@@ -25,14 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Stock Brocker.md"
+                "file": "System Design/Google docs.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Stock Brocker"
+              "title": "Google docs"
+            }
+          },
+          {
+            "id": "74468c830655d150",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Vaccine Location Based System.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vaccine Location Based System"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,21 +223,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b8a42b4ee96d63f8",
+  "active": "74468c830655d150",
   "lastOpenFiles": [
     "System Design/Stock Price Change alert.md",
-    "System Design/Price Tracking Service.md",
-    "System Design/Stock Brocker.md",
+    "System Design/Rate Limiter.md",
+    "System Design/Real Time Gaming Leaderboard.md",
+    "System Design/Facebook News feed.md",
+    "System Design/Excalidraw.md",
+    "System Design/Google News.md",
     "System Design/Google docs.md",
+    "System Design/Uber.md",
+    "System Design/Vaccine Location Based System.md",
+    "System Design/Stock Brocker.md",
+    "System Design/Price Tracking Service.md",
     "System Design/Online Auction.md",
     "System Design/Payment System.md",
     "System Design/Chat_WhatsApp.md",
     "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
-    "System Design/Rate Limiter.md",
-    "System Design/Real Time Gaming Leaderboard.md",
     "System Design/Tinder.md",
     "System Design/Twitter.md",
-    "System Design/Uber.md",
     "System Design/URL Shortener.md",
     "System Design/Web Crawler.md",
     "README.md",
@@ -235,11 +251,7 @@
     "Technologies/Elasticsearch.md",
     "Core Concepts/Database Indexing.md",
     "System Design/Facebook Live comments.md",
-    "System Design/Dropbox.md",
-    "System Design/Leetcode.md",
-    "System Design/Yelp.md",
     "Core Concepts",
-    "System Design/Key Value Store.md",
     "Untitled.base",
     "Excalidraw",
     "Sanket_HLD",
