@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Vaccine Location Based System.md"
+                "file": "System Design/Book my Show.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Vaccine Location Based System"
+              "title": "Book my Show"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d61664bec855b22e",
@@ -225,6 +224,7 @@
   },
   "active": "74468c830655d150",
   "lastOpenFiles": [
+    "System Design/Vaccine Location Based BookingSystem.md",
     "System Design/Stock Price Change alert.md",
     "System Design/Rate Limiter.md",
     "System Design/Real Time Gaming Leaderboard.md",
@@ -233,7 +233,6 @@
     "System Design/Google News.md",
     "System Design/Google docs.md",
     "System Design/Uber.md",
-    "System Design/Vaccine Location Based System.md",
     "System Design/Stock Brocker.md",
     "System Design/Price Tracking Service.md",
     "System Design/Online Auction.md",
